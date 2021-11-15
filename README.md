@@ -15,10 +15,10 @@
 | Name | Github Profile | Tasks | Scrum Board | Commits |
 |  --- |  ---           | ---   | ---         | ---     |
 | Natasha | [@mistylavender](https://github.com/mistylavender) |
-| Ridhima | [[@ridhimainukurti](https://github.com/ridhimainukurti)  |
-| Risa | [@4disease](https://github.com/4disease) | 
-| Ava | [@ridhimainukurti](https://github.com/ridhimainukurti)  | 
-| Sarah | [@adhithin](https://github.com/adhithin)  | 
+| Ridhima | [@ridhimainukurti](https://github.com/ridhimainukurti)  |
+| Risa | [@risaiwazaki](https://github.com/risaiwazaki) | 
+| Ava | [@avabrooks](https://github.com/avabrooks)  | 
+| Sarah | [@sarahwxie](https://github.com/sarahwxie)  | 
 
 ## Table of Contents
   - [Week 0]()
