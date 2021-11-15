@@ -9,7 +9,7 @@
 
 [Ava, Risa, & Sarah's Journal]()
 
-[Natasha & Ridhima's Journal]()
+[Natasha & Ridhima's Journal](https://docs.google.com/document/d/14XjNanKRCJLlYLtn_Kr3sNewlQnIewDAhDZlCxQXr7s/edit?usp=sharing)
 
 ## Contributors 
 | Name | Github Profile | Tasks | Scrum Board | Commits |
