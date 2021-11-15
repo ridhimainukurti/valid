@@ -9,7 +9,7 @@
 
 [Ava, Risa, & Sarah's Journal]()
 
-[Natasha & Ridhima's Joural]()
+[Natasha & Ridhima's Journal]()
 
 ## Contributors 
 | Name | Github Profile | Tasks | Scrum Board | Commits |
